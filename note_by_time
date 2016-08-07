@@ -14,3 +14,4 @@
 2016-08-01	Mon	oracle里面对于表的delete似乎有些问题，用truncate才成功。存疑
 2016-08-03	Wed	开始编写爬虫，没控制好速度，导致拉勾网屏蔽了公司IP
 2016-08-04	Thu	linux上安装java，现在机子上有了python3,go,java,c,c++,R的环境了。
+2016-08-07	Sun	撸完计算机网络。
