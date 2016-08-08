@@ -1,0 +1,7 @@
+提到了raid阵列
+介绍了HDFS（谷歌三篇之分布式文件存储）
+介绍了HBase	kv数据库
+介绍了Yarn	集群资源管理器
+
+
+write once ,read many times!!!!!!
