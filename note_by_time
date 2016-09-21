@@ -23,3 +23,4 @@
 2016-09-03	Sat	安装完毕python3 的numpy scrapy组件 , 完成ssh免登陆
 2016-09-07	Wed	体会到自己对linux的理解还不够细致,系统学习mkdir,netstat
 2016-09-09	Fri	理解ln的软连接和硬链接
+2016-09-21	Wed	工作顺利哈哈，今天理解了linux下init.d下service建的不规范的后果apt更新不了 
