@@ -3,6 +3,6 @@ export GOBIN=$GOROOT/bin
 export GOPATH=/home/gay/go
 export PATH=$PATH:$GOBIN
 
-export JAVA_HOME=/usr/compiler/java/jdk1.8.0_172 
+export JAVA_HOME=/usr/compiler/java/jdk1.8.0_171 
 export PATH=$JAVA_HOME/bin:$PATH 
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar 
